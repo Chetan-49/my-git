@@ -1,0 +1,6 @@
+{
+  "name": "EduPulse Nexus",
+  "description": "A modern dual-role Student and Teacher portal dashboard for academic progress, course execution, grading management, and operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
